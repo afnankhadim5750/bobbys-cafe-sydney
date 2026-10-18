@@ -141,7 +141,7 @@ form.demo input:focus,form.demo textarea:focus{outline:2px solid var(--terra);bo
   .cards,.visit-grid,.story .wrap,.contact-grid,.ggrid{grid-template-columns:1fr}
   .ggrid{grid-template-columns:repeat(2,1fr)}
   .fgrid{grid-template-columns:1fr}
-  nav.main{display:none;position:absolute;top:100%;left:0;right:0;background:var(--cream);flex-direction:column;padding:1rem 1.5rem 1.4rem;gap:1rem;border-bottom:2px solid var(--terra);box-shadow:0 14px 26px rgba(0,0,0,.12)}
+  nav.main{display:none;position:absolute;top:100%;left:0;right:0;z-index:60;background:var(--cream);flex-direction:column;padding:1rem 1.5rem 1.4rem;gap:1rem;border-bottom:2px solid var(--terra);box-shadow:0 14px 26px rgba(0,0,0,.12)}
   header.top{position:relative}
   nav.main.open{display:flex}
   .burger{display:block}
