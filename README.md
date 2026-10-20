@@ -1,6 +1,6 @@
 # Bobby's Cafe
 
-Demo website concept for **Bobby's Cafe** — Sydney, Australia.
+Demo website concept for **Bobby's Cafe** — Darlington, Sydney NSW.
 
 Live preview: https://bobbys-cafe-sydney-mockup.netlify.app
 
